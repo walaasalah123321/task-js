@@ -1,0 +1,43 @@
+.center{
+    width: 80vw;
+    margin: auto;
+    display: block;
+    height: 80vh;
+    transform: translate(0%,30%);
+
+}
+.center-center{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.span_3{
+    padding: 20px;
+    text-align: center;
+    
+}
+.back{
+    background-color: white;
+
+    color: black;
+    border-radius: 20%;
+    cursor: pointer;
+    padding: 5px;
+    width: 60px;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+
+}
+.back:hover{
+    background-color: black;
+
+    color: white;
+
+}
+.postive{
+    color: green;
+}
+.negative{
+    color : red;
+}
