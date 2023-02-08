@@ -46,7 +46,7 @@ reset.onclick=function(){
     clearInterval(data)
     milisecond=0 ,minut_value=0,hours_value=0,second_value=0
     hours.innerHTML="00"
-    mili.innerHTML="00)"
+    mili.innerHTML="000"
     minut.innerHTML="00"
     second.innerHTML="00"
 
