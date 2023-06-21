@@ -134,7 +134,7 @@
 
 /* end contect */
 .doctor{
-    background-color: #dfe1e6;
+    background-color: white;
     min-height: 100vh;
 }
 .doctor_list  {
@@ -189,7 +189,7 @@
    
 }
 .footer{
-    background-color: white;
+    background-color: var(--main-background);
     max-height: 100vh;
     padding-top: 10px;
     padding-bottom: 50px;
